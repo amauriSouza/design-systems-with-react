@@ -1,7 +1,7 @@
 {
-  "name": "@amauriSouza/design-systems-with-react",
+  "name": "@amaurisouza/design-systems-with-react",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/amauriSouza"
+    "registry": "https://npm.pkg.github.com/amaurisouza"
   },
   "version": "1.0.0",
   "description": "",
